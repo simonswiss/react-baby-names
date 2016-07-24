@@ -1,0 +1,28 @@
+{
+  "name": "baby-names",
+  "description": "A ReactJS app to find inspiration for baby names",
+  "version": "0.1.0",
+  "maintainers": [
+    {
+      "name": "simonswiss",
+      "email": "simon@simonswiss.com",
+      "web": "http://simonswiss.com"
+    }
+  ],
+  "demos": [
+    "https://baby-names.surge.sh"
+  ],
+  "devDependencies": {
+    "react-scripts": "0.1.0"
+  },
+  "dependencies": {
+    "normalize-css": "^2.3.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  }
+}
