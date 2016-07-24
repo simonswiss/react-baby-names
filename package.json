@@ -10,7 +10,7 @@
     }
   ],
   "demos": [
-    "https://baby-names.surge.sh"
+    "https://react-baby-names.surge.sh"
   ],
   "devDependencies": {
     "react-scripts": "0.1.0"
