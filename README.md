@@ -1,6 +1,6 @@
-# Baby Names Inspiration
+# react-baby-names
 
-A ReactJS app build with the nifty `create-react-app` package.
+A ReactJS app to find inspiration for baby names. Built with the nifty [create-react-app](https://github.com/facebookincubator/create-react-app) package.
 
 ---
 
