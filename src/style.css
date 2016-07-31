@@ -1,12 +1,15 @@
+/* ##### general ##### */
 * {
   box-sizing: border-box;
 }
+main {
+  padding: 0 2rem;
+}
+
+/* ##### Search ##### */
 header {
   background: #3498db;
   margin-bottom: 2rem;
-}
-main {
-  padding: 0 2rem;
 }
 input[type='text'] {
   margin: 1rem;
@@ -19,6 +22,8 @@ input[type='text'] {
   width: calc(100% - 2rem);
   height: 4rem;
 }
+
+/* ##### NamesList ##### */
 ul {
   padding: 0;
 }
@@ -47,6 +52,8 @@ li.boy {
 li.boy:hover {
   background: #8bc4ea;
 }
+
+/* ##### Favourites ##### */
 .favourites li:hover:before {
   content: '\00D7';
   position: absolute;
@@ -77,6 +84,8 @@ li.boy:hover {
   border-top: solid 1px #e6e6e6;
   margin: 1.75rem 0;
 }
+
+/* ##### Footer ##### */
 .credit {
   padding: 1rem 0;
   color: #b3b3b3;
