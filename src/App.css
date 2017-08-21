@@ -1,0 +1,23 @@
+/* ##### Favourites ##### */
+
+.favourites h4 {
+  padding: 1rem 0;
+  font-weight: 400;
+  font-size: 1.3rem;
+  margin: 0;
+  color: #b3b3b3;
+}
+.favourites hr {
+  border-bottom: 0;
+  border-top: solid 1px #e6e6e6;
+  margin: 1.75rem 0;
+}
+
+/* ##### Footer ##### */
+.credit {
+  padding: 1rem 0;
+  color: #b3b3b3;
+}
+.credit a {
+  color: #3498db;
+}
